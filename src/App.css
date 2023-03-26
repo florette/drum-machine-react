@@ -4,14 +4,15 @@ body {
 }
 
 .app {
-    width: 500px;
-    background: Gainsboro;
-    margin: 50px;
+    text-align: center;
 }
 
 #drum-machine {
     display: flex;
     padding: 20px;
+    width: 500px;
+    background: Gainsboro;
+    margin: 50px;
 }
 
 .pad {

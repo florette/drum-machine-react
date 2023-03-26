@@ -41,6 +41,7 @@ function App() {
     });
     return (
         <div className="app">
+            <h1>Drum Machine</h1>
             <div id="drum-machine">
                 <div className="pad">{drumpads}</div>
                 <div className="controls">
